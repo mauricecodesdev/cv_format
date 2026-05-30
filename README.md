@@ -73,7 +73,7 @@ cv-builder/
 ```bash
 # Cloner le projet
 git clone https://github.com/mauricecodesdev/cv_format.git
-cd cv-builder/backend
+cd cv_format/backend
 
 # Créer et activer l'environnement virtuel
 python -m venv env
