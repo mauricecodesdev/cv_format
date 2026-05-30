@@ -72,7 +72,7 @@ cv-builder/
 
 ```bash
 # Cloner le projet
-git clone https://github.com/ton-username/cv-builder.git
+git clone https://github.com/mauricecodesdev/cv_format.git
 cd cv-builder/backend
 
 # Créer et activer l'environnement virtuel
